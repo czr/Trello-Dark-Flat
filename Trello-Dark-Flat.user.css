@@ -60,7 +60,7 @@
         background-color: #404040;
         border-color: #404040;
     }
-    body,
+    #surface,
     #classic-body,
     .boards-drawer-header,
     .attachment-thumbnail:hover .attachment-thumbnail-details,
