@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name        Trello Dark Flat
 @namespace   https://github.com/czr
-@version     0.9.1
+@version     1.0.0
 @license     CC-BY-4.0
 @description Benjamin Bagley's Trello Dark Flat style ported to UserCSS
 ==/UserStyle== */
@@ -21,6 +21,7 @@
     select,
     textarea,
     a,
+    pre code,
     .card-detail-item input[type=text].card-detail-badge:focus,
     .show-more:hover,
     .big-link:hover,
