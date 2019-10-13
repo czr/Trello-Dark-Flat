@@ -138,6 +138,7 @@
     input[type=password]:focus,
     input[type=email]:focus {
         background-color: #303030;
+        color: #999;
     }
     .window-archive-banner {
         background-color: #555555;
